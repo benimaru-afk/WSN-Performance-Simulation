@@ -1,0 +1,3 @@
+package snsim;
+
+@license(LGPL);
